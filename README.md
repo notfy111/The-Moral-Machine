@@ -4,4 +4,4 @@ An extension of the Moral Machine Project
 
 ## Example Scenario
 
-![](graph_illustsration.png)
+![](/presentation/graph_illustration.png)
