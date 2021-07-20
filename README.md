@@ -1,6 +1,6 @@
 # Final-Project
 ## To swerve or not to swerve, that is the question.
-An extension of the Moral Machine Project
+An extension of MIT's Moral Machine Experiment.
 
 ## Example Scenario
 
